@@ -1,0 +1,7 @@
+{
+  "name": "system-monitor",
+  "private": true,
+  "scripts": {
+    "start": "python system_monitor.py"
+  }
+}
